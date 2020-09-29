@@ -1,7 +1,7 @@
 # Azura1500
-Demo of an rpg created with *GameMaker Studio 2* in 2019. Gameplay is about 10 minutes long.
+Demo of an rpg created with **GameMaker Studio 2** in 2019. Gameplay is about 10 minutes long.
 
-Complete the daily task of a lonely robot builder to learn more about her story and guide her to a brighter future ☀️
+Complete the daily task of a lonely robot builder to learn more about her story and guide her to a brighter future 🤖
 
 ```
 Download full repository and lauch the .exe file.
