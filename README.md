@@ -8,5 +8,5 @@ Complete the daily task of a lonely robot builder to learn more about her story 
 ## Game controls
 * Change dialog, make a selection with **space bar**
 * Move with **arrows** or **ZQSD/ WASD** (this can be changed in the settings menu)
-*  settings menu with **escape key**
+* Open settings menu with **escape key**
 * Interact with an object with **E**
